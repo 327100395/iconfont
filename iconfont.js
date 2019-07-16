@@ -1,16 +1,14 @@
 // ==UserScript==
-// @name         阿里图标颜色编辑
-// @namespace    https://github.com/327100395/iconfont/
-// @version      1.0.0
-// @updateURL    
-// @description  阿里图标颜色编辑
-// @grant        unsafeWindow
-// @require      http://cdn.bootcss.com/jquery/3.3.1/jquery.min.js
-// @author       辣条要甜点
-// @match        *iconfont.cn*
-// @include      *iconfont.cn*
-// @run-at document-end
-// @grant        GM_xmlhttpRequest
+// @name            iconfont图标颜色编辑
+// @author          辣条要甜点
+// @namespace       https://github.com/327100395/iconfont/raw/master/iconfont.js
+// @description     阿里iconfont多色图标颜色编辑
+// @license         WTFPl
+// @version         1
+// @include         *iconfont.cn*
+// @run-at          document-end
+// @updateURL       https://github.com/327100395/iconfont/raw/master/iconfont.js
+// @grant           none
 // ==/UserScript==
 
 (function () {
