@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name            iconfont图标颜色编辑
 // @author          辣条要甜点
-// @namespace       https://github.com/327100395/iconfont/raw/master/iconfont.js
+// @namespace       https://raw.githubusercontent.com/327100395/iconfont/master/iconfont.js
 // @description     阿里iconfont多色图标颜色编辑
 // @license         WTFPl
 // @version         1
 // @include         *iconfont.cn*
 // @run-at          document-end
-// @updateURL       https://github.com/327100395/iconfont/raw/master/iconfont.js
+// @updateURL       https://raw.githubusercontent.com/327100395/iconfont/master/iconfont.js
 // @grant           none
 // ==/UserScript==
 
